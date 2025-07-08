@@ -12,4 +12,8 @@ install_if -> { RUBY_PLATFORM =~ %r!mingw|mswin|java! } do
 end
 
 # Windows 用ファイル監視
-gem 'wdm', '>= 0.1.0' if Gem.win_platform?
+gem 'wdm' if Gem.win_platform?
+
+# デバッグ用
+gem "bigdecimal"
+gem "faraday-retry"
