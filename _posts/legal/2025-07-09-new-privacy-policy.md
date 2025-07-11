@@ -1,6 +1,6 @@
 ---
 layout: post
-title: アプリプライバシーポリシー
+title: プライバシーポリシー
 categories:
 - legal
 ---
