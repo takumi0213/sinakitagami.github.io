@@ -4,7 +4,7 @@ title: ペナルティポリシー
 categories:
 - legal
 ---
-※このポリシーは、<a href="{{site.url}}/legal/new-tos" class="a-orange">全体利用規約</a>と同等の効力を持つ文書として扱われます。
+※本ポリシーは、<a href="{{site.url}}/legal/new-tos" class="a-orange">全体利用規約</a>と併せて適用されます。
 
 掲載日(最終更新日): 2024年10月10日
 
